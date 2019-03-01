@@ -1,6 +1,6 @@
 # Tracktv
 
-TODO: Write a gem description
+An old startup idea proof of concept packaged as a ruby gem.
 
 ## Installation
 
